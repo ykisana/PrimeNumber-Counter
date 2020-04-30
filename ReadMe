@@ -1,0 +1,7 @@
+This script prints out all numbers that are (probably) prime
+It is an infinite loop, must be terminated to end
+
+Checks for prime via Miller-Rabin primality test
+The test is performed on each Natural Number after 2 as the count increases by one for each iteration of the loop
+
+It starts as 3 as that is the first prime
